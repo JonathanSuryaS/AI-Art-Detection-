@@ -75,11 +75,27 @@ The models that we created consists of 5 models, 3 deep learning models, and 2 m
 2. 📥 Clone this repository to your local machine:  
    ```bash
    git clone https://github.com/JonathanSuryaS/AI-Art-Detection-
-3. Install the required using the following commands:
-pip install -r requirements.txt
-4. Download the model from the given link here https://github.com/JonathanSuryaS/AI-Art-Detection-/tree/main/Model or visit https://github.com/JonathanSuryaS/AI-Art-Detection-/blob/main/Model/DownloadModelTutorial.ipynb to directly implement model on your Jupyter Notebook.
-5. Ensure the path in app.py is fixed following your system.
-6. Run the Application with the following commands:
-run python app.py / run python3 app.py according to your system in your terminal  or command prompt.
+3. 📦 Install the required packages using the following commands:
+    ```bash
+    pip install -r requirements.txt
 
+4. 👉 Download the model from the given link here:  
+[🔗 Download Model](https://github.com/JonathanSuryaS/AI-Art-Detection-/tree/main/Model)  
+Or visit this tutorial to directly implement the model in your Jupyter Notebook:  
+[📖 Model Tutorial](https://github.com/JonathanSuryaS/AI-Art-Detection-/blob/main/Model/DownloadModelTutorial.ipynb)
+
+5. Ensure the path in `app.py` is fixed according to your system.
+
+6. Run the Application with the following command in your terminal or command prompt:
+
+   - For Windows or Linux:
+     ```bash
+     python app.py
+     ```
+   - For macOS (if needed):
+     ```bash
+     python3 app.py
+     ```
+
+🚀 Enjoy the application! 🎉
 ## Gradio
