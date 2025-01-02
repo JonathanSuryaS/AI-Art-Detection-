@@ -105,7 +105,8 @@ We've made it super easy for you to try out our project! Simply click on the lin
 2. **ViT (Google / ViT-base-patch16-224)**  
    👉 [Check it out here!](https://huggingface.co/spaces/jovanliem/ai_generated_art_detector_ViT)
 
-
-
+<br>
+<br>
+<br>
 
 🚀 Enjoy the application! 🎉
