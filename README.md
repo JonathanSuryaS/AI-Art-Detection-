@@ -64,3 +64,6 @@ The models that we created consists of 5 models, 3 deep learning models, and 2 m
 | **ResNet**              | 3660 images      | 75%          |
 | **ViT (Vision Transformer)** | 3660 images      | 81,14%       |
 ---
+
+
+# Installation guide 
