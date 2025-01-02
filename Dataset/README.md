@@ -7,7 +7,7 @@ The images in each folder represent examples from various **image or art categor
 ## 📂 **Datasets Overview**  
 
 ### **1. AI - ArtBench Dataset**  
-📌 **Dataset Link**: [Real AI Art Dataset](https://www.kaggle.com/datasets/ravidussilva/real-ai-art/data)  
+📌 **Dataset Link**: [AI ArtBench Dataset](https://www.kaggle.com/datasets/ravidussilva/real-ai-art/data)  
 This dataset was generated using **Stable Diffusion 1**, leveraging the prompt:  
 **"A painting in art style [. . .]"** 🎨✨  
 
