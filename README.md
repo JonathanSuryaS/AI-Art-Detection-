@@ -67,3 +67,4 @@ The models that we created consists of 5 models, 3 deep learning models, and 2 m
 
 
 # Installation guide 
+1. Make sure you have Python 3.10 installed on your system. If not, you can download it here https://www.python.org/downloads/
