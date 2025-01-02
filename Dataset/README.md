@@ -6,5 +6,5 @@ The dataset can be accessed at: https://www.kaggle.com/datasets/danielmao2019/de
 
 **Dataset for experiments**
 The dataset used for experiments has been cleaned and filtered, can be accessed at:
-**AI - ArtBench**: https://www.kaggle.com/datasets/godserenas/dataset
-**Deepfakes**: https://www.kaggle.com/datasets/godserenas/deepfakesss
+- **AI - ArtBench**: https://www.kaggle.com/datasets/godserenas/dataset
+- **Deepfakes**: https://www.kaggle.com/datasets/godserenas/deepfakesss
