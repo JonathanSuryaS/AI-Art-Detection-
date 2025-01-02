@@ -1,11 +1,11 @@
-# 🔧 Computer Vision Project - Kelompok 6
+# 🔧 Computer Vision Project - Group 6
 
 ## Class: LA01
 **Course:** 🌐 Computer Vision  
 **University:** 🎓 Bina Nusantara University  
 **Major:** 💻 Computer Science 🎓    
 
-## Group Members
+## 🔰 Group Members
 - **2602058932** - Jovan Amarta Liem  
 - **2602070351** - Jonathan Surya Sanjaya  
 - **2602178911** - Cecillia Tjung  
@@ -20,12 +20,12 @@ We create a solution to the problem by building AI models that can detect whethe
 The models that we created consists of 5 models, 3 deep learning models, and 2 machine learning models with different feature extraction method. Here are the models that we created: 
 - ResNet50V2
 - Xception
-- XGBoost dengan feature extraction HSV
-- Random Forest dengan feature extraction HSV
-- XGBoost dengan feature extraction HSV + Edge Detection
-- Random Forest dengan feature extraction HSV + Edge Detection
-- XGBoost dengan feature extraction MPEG7
-- Random Forest dengan feature extraction MPEG7
+- XGBoost with HSV
+- Random Forest with HSV
+- XGBoost with HSV + Edge Detection
+- Random Forest with HSV + Edge Detection
+- XGBoost with MPEG7
+- Random Forest with MPEG7
 
 # Experiment Results
 | **Model**               | **Total Images** | **Accuracy** |
