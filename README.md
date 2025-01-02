@@ -64,3 +64,14 @@ The models that we created consists of 5 models, 3 deep learning models, and 2 m
 | **ResNet**              | 3660 images      | 75%          |
 | **ViT (Vision Transformer)** | 3660 images      | 81,14%       |
 ---
+
+
+# Installation guide 
+## Local
+1. Make sure you have Python 3.10 installed on your system. If not, you can download it here https://www.python.org/downloads/
+2. Clone the repository using the following commands:
+https://github.com/JonathanSuryaS/AI-Art-Detection-
+3. Install the required using the following commands:
+pip install -r requirements.txt
+
+## Gradio
