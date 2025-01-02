@@ -36,6 +36,21 @@ The models that we created consists of 5 models, 3 deep learning models, and 2 m
 ![Human Art Sample](Images/original.png)
 
 # Experiment Results
+
+## Previous Experiments
+| **Model**               | **Total Images** | **Accuracy** |
+|-------------------------|------------------|--------------|
+| **XGB + HSV**           | 18000 images     | 62.25%       |
+| **XGB + HSV + Edge**    | 18000 images     | 63.89%       |
+| **XGB + MPEG7**         | 3600 images      | 64.17%       |
+| **RF + HSV**            | 18000 images     | 60.75%       |
+| **RF + HSV + Edge**     | 18000 images     | 62.36%       |
+| **RF + MPEG7**          | 3600 images      | 58.47%       |
+| **Xception**            | 18000 images     | 72.16%       |
+| **ResNet**              | 18000 images     | 72.80%       |
+| **ViT (Vision Transformer)** | 18000 images | 80.80%       |
+
+## Latest
 | **Model**               | **Total Images** | **Accuracy** |
 |--------------------------|------------------|--------------|
 | **XGB + HSV**           | 940 images       | 89,36%       |
