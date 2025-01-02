@@ -1,8 +1,7 @@
 The image above inside each folder are the examples of all image / art categories from the dataset below:<br>
 
 **AI - ArtBench Dataset**
-The dataset can be accessed at: https://www.kaggle.com/datasets/ravidussilva/real-ai-art/data
-
+The dataset can be accessed at: https://www.kaggle.com/datasets/ravidussilva/real-ai-art/data<br>
 **Deepfake Dataset**
 The dataset can be accessed at: https://www.kaggle.com/datasets/danielmao2019/deepfakeart
 
