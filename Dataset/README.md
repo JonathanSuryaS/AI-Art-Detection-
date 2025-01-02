@@ -32,6 +32,3 @@ The datasets used for experiments have been cleaned and filtered to ensure high-
 
 - **AI - ArtBench Dataset**: [Filtered Dataset](https://www.kaggle.com/datasets/godserenas/dataset) 🌟  
 - **Deepfake Dataset**: [Filtered Dataset](https://www.kaggle.com/datasets/godserenas/deepfakesss) 🎯  
-
-Learn the tutorial/guide on how to access the model directly in your Jupyter Notebook from here:  
-[📖 Download Model Tutorial](https://github.com/JonathanSuryaS/AI-Art-Detection-/blob/main/Model/DownloadModelTutorial.ipynb)  
