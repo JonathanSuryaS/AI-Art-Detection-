@@ -20,6 +20,7 @@ We create a solution to the problem by building AI models that can detect whethe
 The models that we created consists of 5 models, 3 deep learning models, and 2 machine learning models with different feature extraction method. Here are the models that we created: 
 - ResNet50V2
 - Xception
+- ViT (Google / ViT - base - patch16 - 224)
 - XGBoost with HSV
 - Random Forest with HSV
 - XGBoost with HSV + Edge Detection
