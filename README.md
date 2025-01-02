@@ -17,14 +17,6 @@ We create a solution to the problem by building AI models that can detect whethe
 - https://www.kaggle.com/datasets/ravidussilva/real-ai-art
 - https://www.kaggle.com/datasets/danielmao2019/deepfakeart
 
-## 🖼️ Dataset Samples
-
-### AI-Generated Art
-![AI Art Sample](Images/inpainting.png)
-
-### Human-Created Art
-![Human Art Sample](Images/original.png)
-
 The models that we created consists of 5 models, 3 deep learning models, and 2 machine learning models with different feature extraction method. Here are the models that we created: 
 - ResNet50V2
 - Xception
@@ -34,6 +26,14 @@ The models that we created consists of 5 models, 3 deep learning models, and 2 m
 - Random Forest with HSV + Edge Detection
 - XGBoost with MPEG7
 - Random Forest with MPEG7
+
+## 🖼️ Dataset Samples
+
+### AI-Generated Art
+![AI Art Sample](Images/inpainting.png)
+
+### Human-Created Art
+![Human Art Sample](Images/original.png)
 
 # Experiment Results
 | **Model**               | **Total Images** | **Accuracy** |
