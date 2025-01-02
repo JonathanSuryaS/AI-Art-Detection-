@@ -84,7 +84,7 @@ The models that we created consists of 5 models, 3 deep learning models, and 2 m
 Or visit this tutorial to directly implement the model in your Jupyter Notebook:  
 [📖 Model Tutorial](https://github.com/JonathanSuryaS/AI-Art-Detection-/blob/main/Model/DownloadModelTutorial.ipynb)
 
-5. 🛠️ Ensure the path in `app.py` is fixed according to your system.
+5. 🛠️ Ensure the path in `app.py` is fixed according to your system, including the models and tessting dataset.
 
 6. 🚀 Run the Application with the following command in your terminal or command prompt:
 
@@ -97,5 +97,13 @@ Or visit this tutorial to directly implement the model in your Jupyter Notebook:
      python3 app.py
      ```
 
-🚀 Enjoy the application! 🎉
 ## Gradio
+We've made it super easy for you to try out our project! Simply click on the links below to test the models instantly via Gradio on Hugging Face. 🖱️✨:
+1. **XGBoost (HSV & MPEG-7)**, **Xception**, and **ResNet50V2**  
+   👉 [Try it here!](https://huggingface.co/spaces/jovanliem/ai_generated_art_detector)  
+
+2. **ViT (Google / ViT-base-patch16-224)**  
+   👉 [Check it out here!](https://huggingface.co/spaces/jovanliem/ai_generated_art_detector_ViT)
+
+
+🚀 Enjoy the application! 🎉
