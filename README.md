@@ -84,7 +84,7 @@ The models that we created consists of 5 models, 3 deep learning models, and 2 m
 Or visit this tutorial to directly implement the model in your Jupyter Notebook:  
 [📖 Model Tutorial](https://github.com/JonathanSuryaS/AI-Art-Detection-/blob/main/Model/DownloadModelTutorial.ipynb)
 
-5. 🛠️ Ensure the path in `app.py` is fixed according to your system, including the models and tessting dataset.
+5. 🛠️ Ensure the path in `app.py` is fixed according to your system, including the models and testing dataset.
 
 6. 🚀 Run the Application with the following command in your terminal or command prompt:
 
